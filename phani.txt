@@ -1,2 +1,3 @@
 hello this is from git 
 modified in local
+from local
